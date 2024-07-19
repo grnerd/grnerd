@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<img aling="right" height="290" width="370" src="https://icons8.com/illustrations/illustration/retro-retro-personal-computer-with-windows-logo--animated">
 - 🌱 I’m currently learning Web development
 
 - 🤔 I’m looking for help with DSA
