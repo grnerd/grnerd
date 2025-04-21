@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" /> 
-<img height="50" width="50"  src="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo"/> <img height="50" width="50"  src="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo"/>
+<img height="50" width="50"  src="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo" alt="MySQL"/> 
+<img height="50" width="50"  src="https://icons8.com/icon/tGvHBPJaKqEd/javascript" alt="JavaScript" />
