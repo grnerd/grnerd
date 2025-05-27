@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" height="290" width="370" src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" alt="Image of Computer">
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Backed development
 
 - 🤔 I’m looking for help with DSA
 
